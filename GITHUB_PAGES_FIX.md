@@ -11,7 +11,7 @@ You're getting the "Not Found" error because GitHub Pages isn't enabled for your
 4. Under **Source**, select **"GitHub Actions"**
 5. Click **Save**
 
-### Step 2: Push Your Code Again
+### Step 2: Push Your Code Again v2
 ```bash
 git add .
 git commit -m "Fix GitHub Pages deployment"
